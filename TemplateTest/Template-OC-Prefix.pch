@@ -1,0 +1,23 @@
+//
+//  Template-OC-Prefix.pch
+//  TemplateTest
+//
+//  Created by zw on 2016/12/5.
+//  Copyright © 2016年 张伟. All rights reserved.
+//
+
+#ifndef Template_OC_Prefix_pch
+#define Template_OC_Prefix_pch
+
+#import "Define.h"
+#import "Utility.h"
+#import "HWLog.h"
+#import <libextobjc/EXTScope.h>
+#import "AppDelegate.h"
+#import "ViewFactory.h"
+#import "UIImageView+AFNetworking.h"
+#import "UIImageView+WebCache.h"
+#import <MJExtension/MJExtension.h>
+#import "Category.h"
+
+#endif /* Template_OC_Prefix_pch */
